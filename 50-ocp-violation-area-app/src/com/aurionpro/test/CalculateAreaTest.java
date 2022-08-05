@@ -18,5 +18,6 @@ public class CalculateAreaTest {
 		Square squre = new Square(5);
 		System.out.print("Area of Square :");
 		System.out.println(squre.claculateArea());
+		
 	}
 }
